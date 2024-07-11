@@ -1,0 +1,4 @@
+name: MAPluginInjector
+main: us.mineaqua.injector.InjectorPlugin
+version: 1.0-SNAPSHOT
+load: STARTUP

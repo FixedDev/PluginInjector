@@ -1,0 +1,4 @@
+name: MAPluginInjector
+main: us.mineaqua.injector.InjectorPlugin
+version: ${project.version}
+load: STARTUP

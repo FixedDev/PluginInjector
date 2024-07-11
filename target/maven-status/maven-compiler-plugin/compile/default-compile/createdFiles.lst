@@ -1,0 +1,9 @@
+us\mineaqua\injector\inject\ForwardingProtectedBinder.class
+us\mineaqua\injector\PluginsModule.class
+us\mineaqua\injector\inject\ProtectedBinder.class
+us\mineaqua\injector\inject\ProtectedBinderImpl.class
+us\mineaqua\injector\inject\ProtectedModule.class
+us\mineaqua\injector\inject\ForwardingBinder.class
+us\mineaqua\injector\inject\ForwardingPrivateBinder.class
+us\mineaqua\injector\PluginBinder.class
+us\mineaqua\injector\InjectorPlugin.class
